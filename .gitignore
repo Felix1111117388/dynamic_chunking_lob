@@ -1,10 +1,7 @@
-# Colab / Python
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
 .DS_Store
-
-# Training artifacts / large files
 runs/
 *.pt
 *.ckpt
@@ -13,11 +10,10 @@ runs/
 *.onnx
 *.npz
 *.npy
-
-# Google Drive shortcuts (not real files)
 *.gdoc
 *.gsheet
 *.gslides
 *.gdraw
 *.gs
 *.lnk
+*.ipynb
